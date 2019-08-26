@@ -1,7 +1,7 @@
 # JS_event
 
-1) le fichier index.html dans ton navigateur
-2) test les fonctionnalités ci-dessous
+1) Ouvre le fichier index.html dans ton navigateur
+2) Test les fonctionnalités ci-dessous
 3) Tu pourras retrouver leur code dans le script.js
 
 
