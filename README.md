@@ -1,5 +1,10 @@
 # JS_event
 
+1) le fichier index.html dans ton navigateur
+2) test les fonctionnalités ci-dessous
+3) Tu pourras retrouver leur code dans le script.js
+
+
 Fonctionnalité 1 : rdv dans la console et clique sur la Navbar -> le nombre de clics s'affiche !
 
 Fonctionnalité 2 : clique sur le menu burger pour dérouler le contenu
@@ -13,3 +18,5 @@ Fonctionnalité 5 : Double Click sur la Navbar pour faire apparaître la face ca
                    Recommence pour qu'il s'affiche comme au départ.
 
 Fonctionnalité 6 : 
+
+
